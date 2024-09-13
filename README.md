@@ -1,17 +1,7 @@
-# flutter_application_1
+Практика 1 ПКС
+Запуск в вебе
+![2024-09-08 20 13 34](https://github.com/user-attachments/assets/b1926561-4c2b-4c0e-9f11-a2a59e4bac18)
 
-A new Flutter project.
+Запуск в эмуляторе
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# TruHundred-flutter_aplication_1
+![2024-09-09 07 49 27](https://github.com/user-attachments/assets/7c4e5810-4c64-4861-9935-2e59352ac07e)
